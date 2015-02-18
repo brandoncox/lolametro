@@ -1,2 +1,0 @@
-lolametro = angular.module('lolametro',[
-])
