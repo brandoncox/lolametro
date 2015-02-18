@@ -12,5 +12,7 @@
 //
 //= require jquery
 //= require jquery_ujs
-//= require angular/angular
+//= require turbolinks
+//= require showdown
+//= require react
 //= require_tree .
